@@ -1,4 +1,4 @@
-# Ignite Feed with TypeScript=> <a href='https://ignite-feed-tsx-mauve.vercel.app/'>Online View</a>
+# Ignite Feed with TypeScript => <a href='https://ignite-feed-tsx-mauve.vercel.app/'>Online View</a>
 ## Ignite ReactJS Program
 
 Note: Delete Commponent Added
