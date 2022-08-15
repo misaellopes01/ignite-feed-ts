@@ -1,4 +1,4 @@
-# Ignite Feed => <a href='[https://ignite-feed-jsx.vercel.app/](https://ignite-feed-tsx-mauve.vercel.app/)'>Online View</a>
+# Ignite Feed => <a href='https://ignite-feed-tsx-mauve.vercel.app/'>Online View</a>
 ## Ignite ReactJS Program
 
 Note: Delete Commponent Added
