@@ -11,7 +11,6 @@ export function DeleteComment({ onDeleteComment, content }: DeleteCommentProps) 
         onDeleteComment(content)
     }
 
-
     return (
         <>
             <div className={styles.fitScreen}>
